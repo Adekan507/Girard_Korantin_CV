@@ -102,26 +102,32 @@ body:before {
   }
   @-webkit-keyframes theme {
     0% {
-      background: #74C390;
-    }
-    50% {
-      background: #51BCE8;
-    }
-    100% {
-      background: #74C390;
-    }
+        background: #efe6d5;
+      }
+      33% {
+        background: #9dbeb7;
+      }
+      66% {
+        background: #e44c31;
+      }
+      100% {
+        background: #efe6d5;
+      }
   }
   
   @keyframes theme {
     0% {
-      background: #74C390;
-    }
-    50% {
-      background: #51BCE8;
-    }
-    100% {
-      background: #74C390;
-    }
+        background: #efe6d5;
+      }
+      33% {
+        background: #9dbeb7;
+      }
+      66% {
+        background: #e44c31;
+      }
+      100% {
+        background: #efe6d5;
+      }
   }
   @-webkit-keyframes background {
     0% {
