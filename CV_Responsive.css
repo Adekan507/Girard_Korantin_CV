@@ -34,7 +34,9 @@ body{
 }
 
 .name{
-    margin-left: 60px;
+    text-align: center;
+    color:  #2babe2;
+    
 }
 
 .place{
