@@ -104,11 +104,8 @@ body:before {
     0% {
         background: #efe6d5;
       }
-      33% {
+      50% {
         background: #9dbeb7;
-      }
-      66% {
-        background: #e44c31;
       }
       100% {
         background: #efe6d5;
@@ -119,11 +116,8 @@ body:before {
     0% {
         background: #efe6d5;
       }
-      33% {
+      50% {
         background: #9dbeb7;
-      }
-      66% {
-        background: #e44c31;
       }
       100% {
         background: #efe6d5;
